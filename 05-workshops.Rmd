@@ -1,0 +1,22 @@
+---
+title: "Workshops"
+author: "Joffrey Mayer"
+date: "12/8/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Workshops
+
+## Wieso gibt es überhaupt Workshops?
+
+![Beispiel, wieso es Workshops gibt.](./bilder/warum-workshops?.png)
+
+## Vorbereitung
+
+![Beispiel, wie ich mich auf einen Workshop vorbereiten sollte](./bilder/vorbereitungen-fuer-workshops.png)
+
+

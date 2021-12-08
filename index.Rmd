@@ -7,4 +7,50 @@ site: bookdown::bookdown_site
 
 # Bewerbungen
 
-Alles rund um die Bewerbung.
+In diesem Bookdown habe ich alles rund um die Bewerbung zusammengefasst.
+
+## Meine Erfahrungen
+
+- Bei einem **Kennenlerngespräch** musst du nicht zu viel technisches beantworten. Sie wollen eine kurze Zusammenfassung von dir: am besten du hast deinen CV vor dir und du gehst diesen mit Ihnen zusammen durch, Schritt für Schritt, und gehst ein wenig mehr ins Detail, wo sie sich interessieren. Ansonsten fasst du jede Station in 3-4 Sätzen zusammen.
+- Bei einem **Workshop** geht alles **sehr sehr schnell** (zu schnell...). Du wirst nach einem Vortrag gefragt und dann - in 30 Minuten - muss er fertig sein (WTF?). Ausserdem solltest du vor allem 1 bis 2 Fragen vorbereiten "zum auffallen", da es _Talent Acquisition_ Manager gibt, welche alle deine Aussagen analysieren. Sie nehmen dann die 2-3 besten Studenten aus dem Workshop, die anderen interessieren sie nicht. Vorbereiten solltest du:
+  - Eine **Präsentation auf Google-Drive <u>im Voraus</u> erstellen**, wo du dann alle deine Teammitglieder hinzufügen kannst via ihrer Gmail-Adresse. Das hat mich gerettet!
+  - **Schalte What's App & deine Emails aus**, denn im Seminar erhielt ein Student eine peinliche Nachricht via Email von einem Kleiderladen! xD
+  - Eventuell **Notizen auf deine WhiteBoard* **zu deiner Person, wenn sie dich Fragen, in 5 Meilensteinen vorzustellen.
+  - **Bereite 2-3 Fragen vor**, wenn du vorhast, positiv aufzufallen, denn die Talent-Acquisition Manager lieben proaktives Verhalten.
+- Beim Digitec-Gespräch haben Sie mir Fragen bezüglich Ihrer Internetseite gefragt: "Wie würdest Du die Navigation in unserem E-Shop ändern und verbessern?"
+  - <u>Problem</u>: Ich hatte die Digitec.ch Shopseite nie angeschaut! xD
+  - <u>Gelernt</u>: Bei konkreten Stellen, welche **<u>keine</u> Praktikas** sind, solltest du besser aufpassen, denn *Sie fragen mit grosser Wahrscheinlichkeit Dinge, welche mit der Stelle im Zusammenhang stehen*.
+- Bei der SBB habe ich Telefonat mit dem Chef der AI-Abteilung: Der war sehr "boomerisch" und der "Vibe" ist nicht gut gewesen. 
+  - <u>Gelernt</u>: **Nimm lieber eine Stelle, bei denen du mit Mitarbeitern einen guten Flow hast - welche weniger interessant sind - als Stellen, die zwar spannend sind, aber mit assholes**. Das hast du ja auch bei deiner MA gesehen. **Du kannst Data Science immernoch selber erlenen, das hast du ja auch mit Websites geschafft!**
+- Beim Gespräch mit Nima & Philipp habe ich vermutlich zu viel reingeredet. **Lasse den Leuten Zeit zum Ausreden, auch wenn du die Stelle unbedingt willst**!
+  
+## Besser machen
+
+- <u>Wenn die Frage kommt</u>: `"Welches Arbeitspensum möchtest du?"`
+
+  - <u>Absolutely Don't</u>: "Mir ist es egal, ich kann 50-60%, 70-80% oder 100%." **NEIN! Du <u>willst</u> 100%**. 
+  - <u>Gelernt</u> Sage, du willst 80-100% arbeiten. _Das Problem ist, dass die Recruiter dann meinen, du willst die Stelle nicht komplett, wenn du Ihnen sagst "es ist mir egal"_!
+
+- <u>Wenn die Frage kommt</u>: `"Dann ist diese Stelle ja für Sie, wie eine Notlösung?"`
+
+  - <u>Antwort von Valerio von Digitec</u>: "Nein, diese Stelle ist keine Notlösung. Ich habe gesehen, dass die Digitec auch Abteilungen im Bereich des Product Development // Programming besitzt. Ich denke, bei Eurer Stelle gibt es mir die Möglichkeit, mich in den Bereichen XY besser auszukennen. **Im Nachhinein könnte ich ja immernoch die Abteilung wechseln, wenn eine Möglichkeit dazu besteht**. Das ist ja in Unternehmen so der Fall. Im Moment will ich mich aber auf Eure ausgeschriebene Stelle konzentrieren!
+    - **<u>Wann eignet sich dieses Framing am besten?</u>**: Vor allem bei Stellen, bei denen du nicht die Priorität gibst, ist dieses Framing fantastisch! Du kannst den Vorwand benutzen, dass du die anderen ausgeschriebenen Stellen bei Digitec gesehen hast und beweist clever, dass du vielseitig einsatzfähig bist!
+  - <u>Alternative Antwort, welche ich mir ausgedacht hatte, gleich nachdem das Gespräch endete</u>: Du musst du sofort angeben, *dass es nicht wichtig ist, <u>was</u> genau du machst, sondern <u>mit welchen Leuten</u> du dies zusammen tust*: **eine Stelle als Kellner mit Leuten um dich herum, die dir wirklich etwas bedeuten, kann für mich wertvoller sein, als eine Stelle in Data Science mit einem Vorgesetzten, welcher mich wie Müll behandelt**. Ich habe mit meinen Projekten gelernt, dass ich mir meine Grenzen selber setze im Kopf: ich kann Data Science dann immernoch in meiner Freizeit lernen, wenn ich das möchte.
+  
+## Beispiels-Fragen an Gegenpartei
+
+- Wie könnten **meine Entwicklungsschritte** aussehen?
+- Was wäre **aus Eurer Sicht der grösste Erfolg**, den ich in den ersten Monaten erzielen könnte?
+
+- Ich habe am Mittwoch einen Data Science Work Shop besucht. Dort gab es am Ende auch eine Unternehmenspräsentation, in denen sie gesagt haben, dass das Unternehmen insbesondere mit Hilfe von Python Datenanalysen erstellt. Andere Softwares, welche zusätzlich zu Python verwendet wurden, waren: 
+  - **Microsoft PowerBI**: eine Drag- & Drop-Software, welche - so wie ich das verstehe - vor allem mit explorative Statistiken arbeitet.
+  - **Tableau** für die Visualisierungen
+  - **Microsoft Azure**
+  - Python & Jupyter Notebook für die Erstellung von statistischer Inferenz & Anwendung von künstlicher Intelligenz
+    - <u>Deshalb die Frage</u>: Verwendet die SBB einen ähnlichen Aufbau (da ihr auch Microsoft Teams verwendet, dachte ich dies)?
+<br>   
+- Nima, Albert hat mir - als wir über E-Mail kommuniziert haben - erzählt, dass Du / Sie vom Analytics Service als Data Scientist <u>"in den Projekten"</u> unterwegs sind. 
+  - <u>Frage 1</u>: **Bedeutet dies, dass du in mehreren Projekten gleichzeitig tätig bist, insbesondere wenn es um das technische / Codierung geht?** 
+  - <u>Frage 2</u>: Arbeitest du dann im Team mit anderen Data Scientists (per Definition sind "Scrum"-Teams eher klein?) oder alleine? 
+  - <u>Frage 3</u>: Wenn du zusammen arbeitest, verwendet ihr dann z.B. Github oder eine anderes Projektmanagement-Tool? 
+  - <u>Frage 4</u>: Hast du ein Beispiels-Projekt / wie werden die Modelle genannt, die du verwendest (ich z.B. bin im Studium _Simultaneous Equation Models_ begegnet, wenn es um die Modellierung von Preisen via Angebot & Nachfrage geht?) 
