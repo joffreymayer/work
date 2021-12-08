@@ -6,11 +6,11 @@ It's not who you know, it's who knows you.
 
 ## Events
 
-![Welche Events gibt es für Jobs?](./bilder/mögliche-events.png)
+![Welche Events gibt es für Jobs?](./bilder/moegliche-events.png)
 
 ## Kontaktmöglichkeiten via UZH
 
-![Welche Adressen dir helfen können bei der Jobsuche?](./bilder/kontaktmöglichkeiten-uzh.png)
+![Welche Adressen dir helfen können bei der Jobsuche?](./bilder/kontaktmoeglichkeiten-uzh.png)
 
 ## The Hidden Jobmarket
 

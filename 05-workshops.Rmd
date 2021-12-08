@@ -2,7 +2,7 @@
 
 ## Wieso gibt es überhaupt Workshops?
 
-![Beispiel, wieso es Workshops gibt.](./bilder/warum-workshops?.png)
+![Beispiel, wieso es Workshops gibt.](./bilder/warum-workshops.png)
 
 ## Vorbereitung
 

@@ -167,5 +167,5 @@ einem Gespräch gut an Platz. Das zeigt auch symbolisch eine ordentliche Vorbere
 
 ## Übersicht möglicher Fragen
 
-![Mögliche Fragen, die sie dir stellen können](bilder/mögliche-fragen.png)
+![Mögliche Fragen, die sie dir stellen können](bilder/moegliche-fragen.png)
 
