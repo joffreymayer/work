@@ -31,3 +31,5 @@ stellenbeschreibung
 aufgaben
 beschäftigungsgrad
 anforderung
+data-science
+webdevelopment

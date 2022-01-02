@@ -1,0 +1,7 @@
+# Webdevelopment
+
+Ich habe im Verlauf meines Praktikums gelernt, dass es insbesondere auch sehr wichtig ist, dass ich einem breitem Publikum zeigen kann, was ich tue. 
+
+Hierzu sind Kenntnisse in Webdevelopment sehr gut & ergänzend zu meinen Data Science Kenntnissen. 
+
+**Deshalb liste ich hier alle Anforderungen im Bereich von Webdevelopment auf, die ich noch nicht kenne**.
