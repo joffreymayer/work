@@ -4,7 +4,7 @@
 
 ### Bewerbungsfenster
 
-![Bewerbungsfenster von _Career Starter Data Science](./bilder/stellen/sbb-stelle.png)
+![Bewerbungsfenster von _Career Starter Data Science_](./bilder/stellen/sbb-stelle.png)
 
 ### Stellenbeschreibung
 

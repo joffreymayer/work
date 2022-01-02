@@ -7,4 +7,20 @@ Es geht mir dabei darum, dass ich:
 1) Selber neue Sachen beibringe.
 2) Neue Waffen zu meinem Arsenal anbringe.
 
+## Python & Jupyter-Notebooks
+
+Für die Erstellung von statistischer Inferenz & Anwendung von künstlicher Intelligenz.
+
+## Microsoft PowerBI 
+
+Das ist eine Drag- & Drop-Software, welche - so wie ich das verstehe - vor allem mit explorative Statistiken arbeitet.
+
+## Tableau
+
+Für Visualisierung von Daten.
+
+## Microsoft Azure
+
+???
+
 

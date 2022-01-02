@@ -32,4 +32,8 @@ aufgaben
 beschäftigungsgrad
 anforderung
 data-science
+python-jupyter-notebooks
+microsoft-powerbi
+tableau
+microsoft-azure
 webdevelopment
