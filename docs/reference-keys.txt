@@ -24,3 +24,10 @@ fragen-in-der-kategorie-über-deine-praktikas-ferienjobs
 workshops
 wieso-gibt-es-überhaupt-workshops
 vorbereitung
+konkrete-stellen
+sbb-career-starter-data-science
+bewerbungsfenster
+stellenbeschreibung
+aufgaben
+beschäftigungsgrad
+anforderung

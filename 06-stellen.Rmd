@@ -1,0 +1,30 @@
+# Konkrete Stellen
+
+## SBB: Career Starter Data Science
+
+### Bewerbungsfenster
+
+![Bewerbungsfenster von _Career Starter Data Science](./bilder/stellen/sbb-stelle.png)
+
+### Stellenbeschreibung
+
+SBB-Informatik engagiert sich für eine praxisnahe Ausbildung von motivierten Berufs- oder Quereinsteigenden im Bereich Data Science. **Wir machen Sie zum Spezialisten im Umgang mit Daten**. 
+
+### Aufgaben 
+
+1) Sie sammeln (grosse) Datenmengen, 
+2) Dann selektieren Sie aus dieser (grossen) Datenmenge, die benötigten Variablen.
+3) Anschliessend analysieren Sie quantitativ die (grosse) Datenmenge und bereiten diese anhand ihrer Signifikanz auf. Dies gelingt Ihnen mittels mathematischer Modelle und neuster Methodiken sowie Technologien. 
+4) Zudem entwickeln und implementieren Sie Analysemodelle und Algorithmen. Sie verstehen es, Ihre Erkenntnisse verständlich zu präsentieren.
+
+### Beschäftigungsgrad
+
+- 60-100%
+
+### Anforderung
+
+- Sie haben erfolgreich ein Hochschulstudium in einem MINT-Bereich (Mathematik, Informatik, Naturwissenschaft oder Technik) oder der Betriebswirtschaft abgeschlossen. 
+- Mit Vorteil haben Sie sich in der Statistik und im Umgang mit Methodiken bereits erste Kenntnisse angeeignet. 
+- Ausgeprägte kommunikative Fähigkeiten, Teamorientierung und Visualisierungsfähigkeiten stärken Ihr Profil. 
+- Ihre Eigeninitiative, Leistungsbereitschaft und Ihre analytischen Fähigkeiten zeichnen Sie aus. 
+- Sehr gute Deutschkenntnisse (B2) und gute Englischkenntnisse (B1) setzen wir für diese Funktion voraus. 
