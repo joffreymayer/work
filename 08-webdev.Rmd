@@ -5,3 +5,31 @@ Ich habe im Verlauf meines Praktikums gelernt, dass es insbesondere auch sehr wi
 Hierzu sind Kenntnisse in Webdevelopment sehr gut & ergänzend zu meinen Data Science Kenntnissen. 
 
 **Deshalb liste ich hier alle Anforderungen im Bereich von Webdevelopment auf, die ich noch nicht kenne**.
+
+## GraphQL
+
+## Was ist das 
+
+GraphQL is a **query language** for APIs.
+
+> What is a Query Language?
+
+This is a **programming language that requests and retrieves data from database- & information-systems by sending queries**, similarly to `SQL`.
+
+## Quelle
+
+- <u>**Webseite (Home)**</u>: https://graphql.org/
+- <u>**Documentation**</u>: https://graphql.org/learn/
+
+
+## Typescript
+
+### Was ist das?
+
+- `TypeScript` **adds additional syntax to `JavaScript`**, in order to be able to **find errors much more quickly in your Editor** (for example, in VS-Code).
+- `TypeScript` code **is convertible** into `JavaScript` code. Thus, TypeScript is able to run anywhere, where JavaScript runs.
+
+### Quelle
+
+- <u>**Webseite (Home)**</u>: https://www.typescriptlang.org/
+- <u>**Documentation**</u>: https://www.typescriptlang.org/docs/handbook/intro.html

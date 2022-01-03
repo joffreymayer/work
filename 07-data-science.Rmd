@@ -7,9 +7,33 @@ Es geht mir dabei darum, dass ich:
 1) Selber neue Sachen beibringe.
 2) Neue Waffen zu meinem Arsenal anbringe.
 
+## Synonyme
+
+- Use Case // Sample-Data // Stichprobe, mit der du die Datenanalyse betreibst
+
+## AWS 
+
+AWS (= Amazon Web Services) ist eine **Cloud-Plattform**, auf welche du - beispielsweise:
+
+- Alle Unterlagen deines Unternehmens speichern kannst, 
+- Deine Webseite hochlädst,
+- Infrastruktu-Technologien: Computerspeicher oder Datenbanken,
+- Machine Learning betreiben kannst,
+- etc...
+
+Man kann dort die Tools auswählen, die man braucht. Und man zahlt nur für das, was man auch tatsächlich verbraucht. 
+
+### Quelle
+
+- <u>**Schaue das Youtube-Video**</u>: https://aws.amazon.com/de/what-is-aws/?nc1=f_cc
+
 ## Python & Jupyter-Notebooks
 
 Für die Erstellung von statistischer Inferenz & Anwendung von künstlicher Intelligenz.
+
+## DevOps
+
+![Das ist die visuelle Erklärung, was `DevOps` genau ist](./bilder/data-science/dev-ops.png)
 
 ## Microsoft PowerBI 
 
