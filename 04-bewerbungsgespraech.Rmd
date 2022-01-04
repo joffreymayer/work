@@ -61,39 +61,96 @@ einem Gespräch gut an Platz. Das zeigt auch symbolisch eine ordentliche Vorbere
 
 – Beschreiben Sie sich selbst.
 
+  - **Stärken**:
+    - Sorgfältig: wichtige Eigenschaft beim Codieren & Recherchearbeiten
+    - Innovativ & Neugierig: Beispiel eigene Webseite Audiophil-Dreams von 600 Besuchern / Monat auf 1'600 Besuchern / Monat (160% Erhöhung)
+    - Hohe Frustrationstoleranz: Ich gebe niemals auf! 
+  - **Schwächen**:
+    - Perfektionistisch kann mir manchmals Streiche spielen. War auch der Kritik-Punkt in meinem Praktikum. Meine Verstreutheit führte dazu, dass ich mich zu wenig auf die Lösung der Aufgabe fokusiert habe. 
+    - Sehr (zu?) empathisch: Tendenz mich selbst zu vernachlässigen. In einem Umfeld, wie das Software-Engineering, bei dem hohe Burn-Out-Quoten bestehen, kann dies langfristig zu einem Problem führen.
+
 – Wie gehen Sie bei der Stellensuche vor?
+
+  - Ich schalte mir ein Job-Abo ein und passe meinen CV an die von mir ausgewählten Stellen an.
+  - Bei den Stellen, für welche ich die Anforderungen nicht erfülle, gehe ich jeweils auf die Selektions-Kriterien und ergänze mein "Know-How" mittels einer Webseite, die ich für mich selbst erstellt habe. Damit habe ich langfristig einen viel grösseren Pool an Unternehmen, zu denen ich mich bewerben kann.
 
 – Was zeichnet Ihre ideale Stelle aus?
 
+  - Auf fachlicher Ebene: Herausfordernde Aufgaben, an die das Unternehmen, sowie mein Team & ich wachsen können.
+  - Auf menschlicher Ebene: Ein Team, welches sich stets gegenseitig unterstützt und ergänzt.
+  - Auf finanzieller Ebene: wenn der Gehalt stimmt, dann ist ein attraktiver Gehalt natürlich vorteilhaft, sollte aber nicht das Hauptkriterium sein, weshalb ich mich bewerbe.
+
 – Welches sind Ihre wichtigsten Auswahlkriterien?
+
+  - Ich wähle Stellen aus, die meinen Interessen & Spezialisierungen entsprechen.
 
 – Wie treffen Sie die endgültige Entscheidung?
 
+  - Ich schreibe mir das gesamte Spektrum an möglichen Entscheidungen auf, beurteile, was die Vor- & Nachteile jeder Entscheidung sind und entscheide mich dann entsprechend für diejenige, welche für das Unternehmen den grössten Nutzen hat. 
+
 – Wenn Sie sich mit drei Adjektiven beschreiben könnten, welche wären diese?
+
+  - Sorgfältig, harntäckig und kreativ
 
 – Woher wissen Sie, dass Sie wirklich das sind, was Sie zu sein behaupten?
 
+  - Weil ich meiner Intuition folge und bei meinen Entscheidungen immer 100% geben. 
+    - Beispiel: ich wusste, dass ich bei meinem Praktikum nicht immer alles zeitlich erreichen konnte. Das war aufgrund eines Mangels meiner eigenen Kompetenzen zurückzuführen und nicht aufgrund meiner Kollegen. Deshalb habe ich nie eine einzige Überstunde verrechnet, weil die Leute, die mich eingestellt haben, sich auf mich verlassen haben. Deshalb wollte ich ihnen dieses Vertrauen mit 100%-igem Einsatz zurückgeben. So bin ich. Und ich bin stolz darauf.
+
 – Welches sind Schwächen, von denen Sie wissen, dass Sie an Ihnen arbeiten müssen?
+
+- Zu empathisch
 
 – Wie würde Ihr Umfeld Sie beschreiben?
 
+- **Stärken**:
+    - Sorgfältig: wichtige Eigenschaft beim Codieren & Recherchearbeiten
+    - Innovativ & Neugierig: Beispiel eigene Webseite Audiophil-Dreams von 600 Besuchern / Monat auf 1'600 Besuchern / Monat (160% Erhöhung)
+    - Hohe Frustrationstoleranz: Ich gebe niemals auf! 
+  - **Schwächen**:
+    - Perfektionistisch kann mir manchmals Streiche spielen. War auch der Kritik-Punkt in meinem Praktikum. Meine Verstreutheit führte dazu, dass ich mich zu wenig auf die Lösung der Aufgabe fokusiert habe. 
+    - Sehr (zu?) empathisch: Tendenz mich selbst zu vernachlässigen. In einem Umfeld, wie das Software-Engineering, bei dem hohe Burn-Out-Quoten bestehen, kann dies langfristig zu einem Problem führen.
+
 – Welche Stärken / Schwächen schätzen / stören Sie bei anderen Menschen?
+
+- **Stärken**: 
+  - starker Wille
+  - 
+
+- **Schwächen**: 
+  - Arroganz
+  - Faulheit
+  - Feigheit
 
 ## Fragen in der Kategorie _Über Deine berufliche Ziele_
 
 – Warum haben Sie sich bei unserem Unternehmen beworben?
 
+  - Weil es mir ermöglichen wird, über mich selbst hinauszuwachsen.
+
 – Was für ein Bild haben Sie von unserem Unternehmen?
+
+  - _Recherche-Arbeit_ via der Webseite des Unternehmens.
 
 – Worauf haben Sie in unserer Stellenanzeige besonders reagiert?
 
+  - Data Science
+
 – Was halten Sie von diesem Stellenangebot?
+
+  - Gut, ansonsten würde ich mich nicht bewerben.
 
 – Was erwarten Sie von dieser Arbeit?
 
+  - Dass das Unternehmen mich in die beste Lage bringt, die Aufgabe zu meistern. Wie die Aufgabe gemeistert wird, überlassen Sie mir. 
+
 – Welchen Mehrwert können Sie uns bringen?
 
+  - Erfahrung in diesem Bereich
+
 – Welches sind Ihre beruflichen Pläne?
+
+  - Keine
 
 – Welche Fähigkeiten benötigt man für diese Stelle?
 
