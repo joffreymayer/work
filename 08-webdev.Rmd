@@ -33,3 +33,26 @@ This is a **programming language that requests and retrieves data from database-
 
 - <u>**Webseite (Home)**</u>: https://www.typescriptlang.org/
 - <u>**Documentation**</u>: https://www.typescriptlang.org/docs/handbook/intro.html
+
+
+## MongoDB
+
+### Was ist das?
+
+- `MongoDB` is a **document-oriented**, **no sequel (NoSQL)** database.
+
+### Quelle
+
+- <u>**Tutorial von `WebDevSimplified`**</u>: https://www.youtube.com/watch?v=ofme2o29ngU
+- <u>**Documentation**</u>: https://docs.mongodb.com/manual/installation/
+
+## Kubernetes
+
+### Was ist das?
+
+- Kubernetes ist ein Open-Source-System zur Automatisierung der Bereitstellung, Skalierung und Verwaltung von containerisierten Anwendungen. Das Open-Source Project wird von der Cloud Native Computing Foundation (CNCF) gehosted.
+
+### Quellen 
+
+- <u>Documentation</u>: https://kubernetes.io/de/docs/home/
+

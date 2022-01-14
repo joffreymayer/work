@@ -43,6 +43,13 @@ Das ist eine Drag- & Drop-Software, welche - so wie ich das verstehe - vor allem
 
 Für Visualisierung von Daten.
 
+## R Tidyverse
+
+The tidyverse is a set of packages that work in harmony because they share common data representations and API design.
+
+- <u>Quelle</u>: https://tidyverse.tidyverse.org/
+- <u>List of all the 8 packages of the R Tidyverse</u>: https://www.tidyverse.org/packages/
+
 ## Microsoft Azure
 
 ???

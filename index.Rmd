@@ -54,3 +54,34 @@ In diesem Bookdown habe ich alles rund um die Bewerbung zusammengefasst.
   - <u>Frage 2</u>: Arbeitest du dann im Team mit anderen Data Scientists (per Definition sind "Scrum"-Teams eher klein?) oder alleine? 
   - <u>Frage 3</u>: Wenn du zusammen arbeitest, verwendet ihr dann z.B. Github oder eine anderes Projektmanagement-Tool? 
   - <u>Frage 4</u>: Hast du ein Beispiels-Projekt / wie werden die Modelle genannt, die du verwendest (ich z.B. bin im Studium _Simultaneous Equation Models_ begegnet, wenn es um die Modellierung von Preisen via Angebot & Nachfrage geht?) 
+  
+## Unternehmen
+
+Hier eine Liste mit diversen Unternehmen, bei denen du dich bewerben könnstest:
+
+- **Bankque Pictet**: https://www.group.pictet/de/karrieremoeglichkeiten
+- **Bildungszentrum Kinderbetreuung**: https://bke.ch/ueber-uns/stellenmarkt/
+- **Campana & Schott**: https://www.campana-schott.com/de/de/karriere/stellenangebote
+- **Credit Suisse**: https://www.credit-suisse.com/careers/de.html
+- **Emil Frey AG (Autoverkäufer)**: https://www.emilfrey.ch/de/emil-frey-gruppe/offene-stellen
+- **ETH**: https://jobs.ethz.ch/
+- **OST (Rapperswil)**: https://jobs-ost.ch/
+- **Post Finance**: https://www.postfinance.ch/de/ueber-uns/jobs-karriere.html#/overview
+- **Raiffeisen**: https://jobs.raiffeisen.ch/
+- **Six Group**: https://www.six-group.com/de/careers.html
+- **SNB**: https://www.snb.ch/de/ifor/job/id/job_openings
+- **Swisscard GMBH**: https://karriere.swisscard.ch/
+- **UBS**: https://www.ubs.com/global/en/careers/search-jobs.html
+- **Universität Luzern**: https://www.unilu.ch/universitaet/personal/personaldienst/offene-stellen/
+- **Vermögenszentrum Zürich**: https://www.vermoegenszentrum.ch/jobs-karriere/offene-stellen
+- **Vontobel (Bank)**: https://www.vontobel.com/de-ch/ueber-vontobel/karriere/offene-stellen/
+- **Zürcher Hochschule für Angewandte Wissenschaften (ZHAW)**: https://www.zhaw.ch/de/jobs/offene-stellen/
+- **ZKB**: https://apply.refline.ch/792841/search.html
+
+## Hilfe
+
+Du kannst auch ein sogenannte **Personaldienstleistung** anwerben, damit diese - sehr häufig - kostenlos vermitteln: https://www.adecco.de/personaldienstleistung/
+
+## Ausbildungen
+
+- <u>Lehrperson</u>: SVEB, CELTA/TEFL (grade A oder B), SAL (Ausbildungsrichtung Didaktik)
