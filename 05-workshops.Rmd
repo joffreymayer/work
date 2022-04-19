@@ -4,6 +4,25 @@
 
 ![Beispiel, wieso es Workshops gibt.](./bilder/warum-workshops.png)
 
+## Beispiele von Tasks
+
+- **Präsentation** mit 30 Minuten Vorbereitungs-Zeit.
+  - <u>Statistik</u>: Kam bisher in **2 / 2** Workshops vor, an denen ich teilgenommen habe.
+  - <u>Beispiele</u>: 
+    - <mark>Präsentieration - **im Team** - einer exploratory Data Analysis, die wir 1 Tag davor erhalten hatten (SIX)</mark>. 
+      - <u>Schwierigkeiten</u>: War remote, dh wir mussten **alle - simultan - auf via Google-Drive eine Präsentation zugreifen**, um diese zu erstellen. Ausserdem war die Aufgabe schwierig zu lösen, wenn man:
+        - noch <u>nie</u> **mit Python** gearbeitet hatte, sowie 
+        - nicht wusste, wie man mit **Geospacial-Data** arbeitet.
+    - <mark>Präsentation eines Daten-Science Projektes (Chat Bot) an einen höher gestellten Manager (Post, Mobiliar & D | One) in 30 Minuten</mark>.
+      - <u>Schwierigkeiten</u>: Wir wurden random in ein 3er-Team zusammengewürfelt und dabei gab es folgende Dinge, die schwierig waren:
+        - Diverse Teammitglieder haben **unterschätzt, wie schnell 30 Minuten vorübergehen können**. Bespreche den roten Faden der Präsentation mit ihnen innerhalb von circa 5-7 Minuten.
+        - Die Aufgabe war sehr vage gestellt: man wusste beispielsweise nicht, was für Daten gegeben waren. Du musstest selber entscheiden, welchen _Lösungsansatz_ (= Klassifizierungs-Algorythmus), welches _Problem_ überhaupt für das Unternehmen gegeben war (= zu ineffiziente Nutzung der Kunden-Daten) welche _Vorteile dieser beitet_ (= _Kosteneinsparungen_ beim Call-Center Personal, weil Bot auf Webseite 24 / 7, <u>sowie</u> _Reduktion der Informations-Asymetrie_ für Kunden, welche bessere Produkt-Vorschläge mittels Chat-Bot erhalten) und welche _Implementierungs-Methode_ (= zunächst nur kleine Zielgruppe an Kunden, um den Erfolg in einem "PoC" "progressiv" zu messen, wobei "PoC" für "Proof of Concept" steht) geeignet waren.
+        - Am Schluss wurden Fragen zu unseren **Einschätzungen zu den Kosten** des Projektes gestellt. Hier wusste keiner von uns, wie diese Frage zu beantworten war. 
+          - <u>Lösung</u>: Im Nachhinein denke ich, dass ich einfach meine Dienste mit Hilfe einer variablen Vergütungsmethode (nur geringer Fixlohn, welcher bloss die existenziellen Kosten deckt; dann einen variablen Lohn, abhängig vom Erfolg des Projektes) anbieten sollte, wodurch die (hohen) Anstellungs- & Unsicherheits-Risiken für die Unternehmung decken sollte.
+        - Ausserdem wurde gefragt, wie wir den "Erfolg ohne Bot" messen würden, dh also noch _bevor_ irgend eine Bot-Lösung überhaupt eingeführt wurde. Auch hier wussten wir nicht, wie wir antworten sollten.
+          - <u>Simple Lösung</u>: Mitarbeiter // Manager fragen, wie die  Kunden-Feedbacks waren, bevor der Bot eingesetzt wurde. 
+
+
 ## Vorbereitung
 
 ![Beispiel, wie ich mich auf einen Workshop vorbereiten sollte](./bilder/vorbereitungen-fuer-workshops.png)

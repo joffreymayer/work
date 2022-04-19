@@ -2,29 +2,56 @@
 
 In diesem Kapitel erzähle ich dir von meinen Tipps & Tricks.
 
+- <u>Wichtig</u>: An _Assessment-Days_, an denen du eingeladen wirst, **können ebenfalls Bewerbungsgespräche stattfinden** (<u>Beispiel</u>: Post, Mobiliar & D | One Workshop)!
+
 ## Wie kann ich ein Bewerbungsgespräch mit Erfolg überstehen?
 
 Es gibt eine **Checkliste**, die man erledigen sollte, *bevor* das Bewerbungsgespräch stattfindet:
 
-- [ ] Lese die Internetseite des Unternehmens, **insbesondere** ist wichtig, dass sich der Bewerber mit dem Unternehmen identifizieren kann. Kurzgefasst: Die Leute, welche dich einstellen, **wollen vorallem sehen, dass du für das Unternehmen brennst**!
-  - **Deine Aufgabe: Finde Gründe, warum du für die SBB brennst!**
-- [ ] Bei der Selbstpräsentation von dir sollst du nicht bloss deine Bewerbung nochmals runterlabern, weil der Recruiter hat deinen Text ja gelesen.
-  - **Deine Aufgabe: Überlege dir im Vorhinein, wie du dich präsentierst.**
+- [ ] <u>Einlesen (= Vorarbeit)</u>: Lese die Internetseite des Unternehmens, **insbesondere** ist wichtig, dass sich der Bewerber mit dem Unternehmen identifizieren kann. Kurzgefasst: Die Leute, welche dich einstellen, **wollen vorallem sehen, dass du für das Unternehmen brennst**!
+  - <mark><u>Deine Aufgabe</u></mark>: Fülle das Template `~/Dokumente(swiss7Cloud)/Administration/Bewerbungen/Vorlagen/02-Vorbereitung-Bewerbungsgespräch/vorbereitung.Rmd` in `R` aus.  
+- [ ] <u>**Elevator Pitch (Selbstvermarktung // Personal Brand // Alleinstellungsmerkmal)**</u>: Bei der Selbstpräsentation von dir sollst du nicht bloss deine Bewerbung nochmals runterlabern, weil der Recruiter hat deinen Text ja gelesen.
+  - <u>Kontext</u>: Überlege dir im Vorhinein, wie du dich präsentierst. Dieser Punkt könnte auch separat mittels **Elevator-Pitch** - _vor_ dem Bewerbungsgespräch - abgefragt werden! **Das Ziel meines Elevator-Pitches wird sein, <u>wie</u> Unternehmen "XY" von mir als "Career Starter Data Science" profitieren kann (Perspektive des Unternehmens).**
   - **Achtung**: Auch der Recruiter hat sich auf das Gespräch vorbereitet, nicht nur du!
-- [ ] **Fast am Wichtigsten**: Der Recruiter will von dir wissen, der Grund, warum dich die Stelle motiviert.
-  - **Deine Aufgabe: Warum motiviert dich diese Stelle?**
-- [ ] Zeige deine Kompetenzen anhand von Beispielen aus vergangenen Stellen.
-  - **Deine Aufgabe: die erstellten Arbeiten ungefähr auf Vor- & Nachteile besprechen können.**
-- [ ] An Bewerbungsgespräch soll man den zukünftigen Arbeitgeber auch Fragen stellen. Das zeigt Interesse aus meiner Seite und kommt sehr gut an.
-  - **Deine Aufgabe**: Nachdem du alles auf der Webseite gelesen hast, solltest du dir eine Liste von **Fragen notieren, die du dann den Recruiter am Bewerbungsgespräch stellen kannst**. Allerdings kommen auch **spontane Fragen** in
-einem Gespräch gut an Platz. Das zeigt auch symbolisch eine ordentliche Vorbereitung und wirkliches Interesse.
-- [ ] Unbedingt sein Schreibzeug / Tablet mitnehmen, wenn einem spontan Fragen in den Sinn kommen.
-- [ ] Passend für den jeweiligen Job kleiden. Ein gepflegtes Erscheinen ist bei jedem Vorstellungsgespräch ein Muss. 
-  - **Deine Aufgabe: Finde heraus, ob eine Kravatte + Anzug unbedingt notwendig sind an einem Bewerbungsgespräch.** Gewisse Unternehmen finden es besser, Andere wiederum nicht.
-- [ ] **NIE** zu spät an ein Bewerbungsgespräch erscheinen!
-- [ ] Sei nicht "Fake". Es wäre ja blöd, weil du bist mit diesen Leuten dann eine sehr lange Zeit zusammen. 
+  - <mark><u>Deine Aufgabe</u></mark>: Passe deine Flowchart-Visualisierung an im Template `~/Dokumente(swiss7Cloud)/Administration/Bewerbungen/Vorlagen/02-Vorbereitung-Bewerbungsgespräch/Flowchart-Data-Science.jpg` (via Figma).
+  - <u>Idee</U>: Was du noch einfügen könnstest, wäre: **Was heisst es, mit "Joffrey" arbeiten zu können?**
+- [ ] **<u>Intrinsische Motivation (einer der wichtigsten Faktoren für HR)</u>**: Der Recruiter will von dir wissen, der Grund, warum <u>dich</u> die Stelle motiviert (also **<u>nur</u> DEINE Perspektive**).
+  - <u>Deine Aufgabe</u>: Finde Gründe, warum du für Unternehmen "XY" brennst! Am besten schaust du dir an, in welchen Haupt-Märkten das Unternehmen tätig ist und **findest eine "Schnittmenge" an Gemeinsamkeiten**, die du dabei mit dem Unternehmen hast. 
+  - <mark><u>Key Question</u></mark>: 
+    - *Warum hast du dich für dieses angebotene Programm // die Stelle interessiert?*
+    - *Was kannst du aus der angebotenen Stelle noch lernen (with respect to your "beruflichen Weiterentwicklung")?* 
+    - *Was gefällt dir bei Unternehmen "XY" besonders?* --> zum Beispiel, dass du mit deinen Skills etwas Praktisches erstellen kannst (auch wenn du dabei nur einen ganz kleinen Teil am Endprodukt leistest).
+    - *Warum motiviert dich diese Stelle?*
+- [ ] <u>**Vergangene Projekte** kurz vorstellen können</u>: Zeige deine Kompetenzen anhand von Beispielen aus vergangenen Stellen.
+  - <mark><u>Deine Aufgabe</u></mark>: **Die erstellten Arbeiten ungefähr auf Vor- & Nachteile besprechen können.**
+      - <u>Tipp</u>: Am Schluss sollst du zeigen, dass du - erstens - <u>gut organisiert bist</u>, dass du auch - zweitens - <u>gut Probleme auspacken UND lösen</u> kannst, damit das Unternehmen eine anwendbare Lösung bekommt, und - drittens - dass du weisst - <u>wie schnell UND effizient</u> - du Sachen lernen kannst. Zu guter Letzt sollst du auch darlegen können, <u>wie du in einem Team arbeitest</u>, aber - im Kontrast dazu - <u>wie du auch selbständig arbeitest</u>. _Sei bei deinen Antworten IMMER ehrlich_!
+- [ ] <u>Vorbereitung von Fragen an Arbeitgeber</u>: Am Bewerbungsgespräch soll man den zukünftigen Arbeitgeber auch Fragen stellen. Das zeigt Interesse aus meiner Seite und kommt sehr gut an.
+  - <mark>**<u>Deine Aufgabe</u>**</mark>: Nachdem du alles auf der Webseite gelesen hast, solltest du dir eine Liste von **Fragen notieren, die du dann den Recruiter am Bewerbungsgespräch stellen kannst**. Allerdings kommen auch **spontane Fragen** in einem Gespräch gut an Platz. Das zeigt auch symbolisch eine ordentliche Vorbereitung und wirkliches Interesse.
+- [ ] <u>Unterlagen zum Mitnehmen</u>: Unbedingt sein **Schreibzeug / Tablet** mitnehmen, wenn einem spontan Fragen in den Sinn kommen. Ich würde auch deinen Laptop mitnehmen für eventuelle **Programmieraufgaben**. Auch **Verpflegung (Bananen & Wasserflasche)** sind unbedingt mitzunehmen!
+- [ ] <u>Kleidung</u>: Passend für den jeweiligen Job kleiden. Ein gepflegtes Erscheinen ist bei jedem Vorstellungsgespräch ein Muss. 
+  - <mark><u>Deine Aufgabe</u></mark>: **Finde heraus, ob eine Kravatte + Anzug unbedingt notwendig sind an einem Bewerbungsgespräch.** Gewisse Unternehmen finden es besser, andere wiederum nicht.
+- [ ] <u>Pünktlichkeit</u>: **NIE** zu spät an ein Bewerbungsgespräch erscheinen!
+- [ ] <u>Verhalten</u>: Sei nicht "Fake". Es wäre ja blöd, weil du bist mit diesen Leuten dann eine sehr lange Zeit zusammen. 
 
-<u>Fazit</u>: **_Am besten, du nimmst ein Template von alten Gesprächen, die du bereits erstellt hast, die sind super!_**
+Good Luck, das schaffst du! Lass dich NIEMALS unterkriegen!! :D
+
+## Fragen, die mir gestellt wurden
+
+- Wieso hast du nicht Wordpress gewählt, als du deinem Vater die Webseite erstellt hast? Wäre das nicht schneller und effizienter gewesen?
+  - <u>Antwort</u>: 
+    - Natürlich wäre die Implementierung viel einfacher in Wordpress gewesen, allerdings verfügen Wordpress-Seiten über eine relativ langsame Performance, was schlecht ist für das SEO.
+    - Ausserdem verkauft mein Vater **Produkte, die sehr hochwertig** sind. Häufig verlangen unsere Kunden also eine "sûr mesure" Lösung. Somit fiel unsere Entscheidung darauf, dass wir für unsere Webseite etwas Einzigartiges brauchten, was unseren Brand // Mentalität reflektierte. Entsprechend wollten wir kein fertiges "Template" von Wordpress verwenden, welches schon von jemand anderem verwendet wurde.
+- <u>Technisches</u>: Wenn du zu viele Variablen ins Modell steckst, was passiert dann? 
+  - <u>Antwort</u>: Da hat man das Problem von "Overfitting". Konsequenz: die Prognosen werden weniger präzis.
+- <u>Post</u>: Wie würdest du das Fahrverhalten unserer Fahrer messen? 
+  - <u>Antwort</u>: Die Anzahl Sekunden, auf denen ein Fahrer auf das Gaspedal tritt beim Anfahren. Oder wie hochturig der Fahrer während der Fahrt im Durchschnitt fährt. Oder ob er den Motor ausschaltet beim Anhalten.
+  
+### Fazit bei Fragen, die du gestellt bekommst
+
+Was ich **bei techischen Fragen** gemerkt habe, ist, dass:
+
+- Du **häufig ein Problem innerhalb des Haupt-Tätigkeitbereiches des Unternehmens gestellt bekommst** und dann ein Modell bauen musst, welches eine Y-Variable & mehrere X-Variablen besitzt. 
+- Eventuell könnte ich mir auch vorstellen, dass du eine **kurze exploratory Data Analysis // Suammry Statistics erstellen** sollst.
 
 ## Welche Interviewer stellen welche Fragen?
 

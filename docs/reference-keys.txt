@@ -16,6 +16,8 @@ template-nach-vernetzung
 cover-letters
 bewerbungsgespräch
 wie-kann-ich-ein-bewerbungsgespräch-mit-erfolg-überstehen
+fragen-die-mir-gestellt-wurden
+fazit-bei-fragen-die-du-gestellt-bekommst
 welche-interviewer-stellen-welche-fragen
 typische-fragen-welche-an-einem-bewerbungsgespräch-auftauchen
 fragen-in-der-kategorie-über-dich
@@ -26,6 +28,7 @@ fragen-in-der-kategorie-über-deine-praktikas-ferienjobs
 übersicht-möglicher-fragen
 workshops
 wieso-gibt-es-überhaupt-workshops
+beispiele-von-tasks
 vorbereitung
 konkrete-stellen
 sbb-career-starter-data-science
